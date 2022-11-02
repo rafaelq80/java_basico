@@ -51,7 +51,7 @@ public class Imprime {
 		}
 
 		/**
-		 *  Soma os elementos pares e concatena todos os elementos do vetor
+		 *  Soma todos os elementos do vetor e concatena todos os elementos pares do vetor
 		 */
 		for (int indice = 0; indice < vetor.length; indice++) {
 
